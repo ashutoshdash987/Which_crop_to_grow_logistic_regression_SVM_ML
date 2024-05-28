@@ -3,7 +3,7 @@
 <p>-> Used GridSearchCV to tune hyperparameters. <br/>
 <p>-> The models achieved accuracies of 97% for logistic regression and 98% for SVM.
 <br/>
-<h3 align='center'><u>Libraries Used</u></h3>
+<h3>Libraries Used</h3>
 - Numpy <br/>
 - Pandas <br/>
 - Sckit-Learn <br/>
